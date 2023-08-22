@@ -9,9 +9,17 @@ import SwiftUI
 
 @main
 struct GlobalStylingApp: App {
+
+    @StateObject var plantEnvironment: PlantEnvironment = .shared
+
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            NavigationStack {
+                HomeView()
+            }
+            .plantEnvironment(plantEnvironment)
+            .navigationBarTitleDisplayMode(.inline)
+            .background(plantEnvironment.styling.colors.background)
         }
     }
 }

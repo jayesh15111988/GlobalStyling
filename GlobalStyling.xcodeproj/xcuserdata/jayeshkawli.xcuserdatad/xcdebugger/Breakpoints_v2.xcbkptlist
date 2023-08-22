@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "573089CD-98B6-43D6-B6D5-C119D0F2F5BD"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "EAB83E52-795C-4C33-9690-D04FD36AF2C7"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "GlobalStyling/Screens/StyleUpdateDemoView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "15"
+            endingLineNumber = "15"
+            landmarkName = "body"
+            landmarkType = "24">
+            <Locations>
+               <Location
+                  uuid = "EAB83E52-795C-4C33-9690-D04FD36AF2C7 - 3862a4740e3411ae"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "GlobalStyling.StyleUpdateDemoView.body.getter : some"
+                  moduleName = "GlobalStyling"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jayeshkawli/Desktop/Xcode_projects/GlobalStyling/GlobalStyling/Screens/StyleUpdateDemoView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "142">
+               </Location>
+               <Location
+                  uuid = "EAB83E52-795C-4C33-9690-D04FD36AF2C7 - 621d766eae3961c7"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; SwiftUI.TupleView&lt;(SwiftUI.Text, SwiftUI.Text)&gt; in GlobalStyling.StyleUpdateDemoView.body.getter : some"
+                  moduleName = "GlobalStyling"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jayeshkawli/Desktop/Xcode_projects/GlobalStyling/GlobalStyling/Screens/StyleUpdateDemoView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "140">
+               </Location>
+               <Location
+                  uuid = "EAB83E52-795C-4C33-9690-D04FD36AF2C7 - 3862a4740e3411ae"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "GlobalStyling.StyleUpdateDemoView.body.getter : some"
+                  moduleName = "GlobalStyling"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jayeshkawli/Desktop/Xcode_projects/GlobalStyling/GlobalStyling/Screens/StyleUpdateDemoView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "228">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "45C214B0-1482-4854-A87D-1E7FF480A114"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "GlobalStyling/Screens/StyleView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "20"
+            endingLineNumber = "20"
+            landmarkName = "body"
+            landmarkType = "24">
+            <Locations>
+               <Location
+                  uuid = "45C214B0-1482-4854-A87D-1E7FF480A114 - aa16620a6e4fd432"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; SwiftUI.TupleView&lt;(SwiftUI.Text, SwiftUI.Image, &lt;&lt;opaque return type of SwiftUI.View.pickerStyle&lt;&#x3c4;_0_0 where &#x3c4;_1_0: SwiftUI.PickerStyle&gt;(&#x3c4;_1_0) -&gt; some&gt;&gt;.0, SwiftUI.NavigationLink&lt;SwiftUI.Text, GlobalStyling.StyleUpdateDemoView&gt;)&gt; in GlobalStyling.StyleView.body.getter : some"
+                  moduleName = "GlobalStyling"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jayeshkawli/Desktop/Xcode_projects/GlobalStyling/GlobalStyling/Screens/StyleView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "20"
+                  endingLineNumber = "20"
+                  offsetFromSymbolStart = "1003">
+               </Location>
+               <Location
+                  uuid = "45C214B0-1482-4854-A87D-1E7FF480A114 - 8b81a45f065d36d8"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; SwiftUI.TupleView&lt;(&lt;&lt;opaque return type of SwiftUI.View.tag&lt;&#x3c4;_0_0 where &#x3c4;_1_0: Swift.Hashable&gt;(&#x3c4;_1_0) -&gt; some&gt;&gt;.0, &lt;&lt;opaque return type of SwiftUI.View.tag&lt;&#x3c4;_0_0 where &#x3c4;_1_0: Swift.Hashable&gt;(&#x3c4;_1_0) -&gt; some&gt;&gt;.0, &lt;&lt;opaque return type of SwiftUI.View.tag&lt;&#x3c4;_0_0 where &#x3c4;_1_0: Swift.Hashable&gt;(&#x3c4;_1_0) -&gt; some&gt;&gt;.0)&gt; in closure #1 () -&gt; SwiftUI.TupleView&lt;(SwiftUI.Text, SwiftUI.Image, &lt;&lt;opaque return type of SwiftUI.View.pickerStyle&lt;&#x3c4;_0_0 where &#x3c4;_1_0: SwiftUI.PickerStyle&gt;(&#x3c4;_1_0) -&gt; some&gt;&gt;.0, SwiftUI.NavigationLink&lt;SwiftUI.Text, GlobalStyling.StyleUpdateDemoView&gt;)&gt; in GlobalStyling.StyleView.body.getter : some"
+                  moduleName = "GlobalStyling"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jayeshkawli/Desktop/Xcode_projects/GlobalStyling/GlobalStyling/Screens/StyleView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "20"
+                  endingLineNumber = "20"
+                  offsetFromSymbolStart = "218">
+               </Location>
+               <Location
+                  uuid = "45C214B0-1482-4854-A87D-1E7FF480A114 - aa16620a6e4fd432"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; SwiftUI.TupleView&lt;(SwiftUI.Text, SwiftUI.Image, &lt;&lt;opaque return type of SwiftUI.View.pickerStyle&lt;&#x3c4;_0_0 where &#x3c4;_1_0: SwiftUI.PickerStyle&gt;(&#x3c4;_1_0) -&gt; some&gt;&gt;.0, SwiftUI.NavigationLink&lt;SwiftUI.Text, GlobalStyling.StyleUpdateDemoView&gt;)&gt; in GlobalStyling.StyleView.body.getter : some"
+                  moduleName = "GlobalStyling"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jayeshkawli/Desktop/Xcode_projects/GlobalStyling/GlobalStyling/Screens/StyleView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "20"
+                  endingLineNumber = "20"
+                  offsetFromSymbolStart = "971">
+               </Location>
+               <Location
+                  uuid = "45C214B0-1482-4854-A87D-1E7FF480A114 - aa16620a6e4fd432"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; SwiftUI.TupleView&lt;(SwiftUI.Text, SwiftUI.Image, &lt;&lt;opaque return type of SwiftUI.View.pickerStyle&lt;&#x3c4;_0_0 where &#x3c4;_1_0: SwiftUI.PickerStyle&gt;(&#x3c4;_1_0) -&gt; some&gt;&gt;.0, SwiftUI.NavigationLink&lt;SwiftUI.Text, GlobalStyling.StyleUpdateDemoView&gt;)&gt; in GlobalStyling.StyleView.body.getter : some"
+                  moduleName = "GlobalStyling"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jayeshkawli/Desktop/Xcode_projects/GlobalStyling/GlobalStyling/Screens/StyleView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "20"
+                  endingLineNumber = "20"
+                  offsetFromSymbolStart = "1082">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "A375064F-BDA3-4B64-93CB-1643B1A4C039"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "GlobalStyling/Styling/Icons.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "17"
+            endingLineNumber = "17"
+            landmarkName = "hash(into:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "A375064F-BDA3-4B64-93CB-1643B1A4C039 - a336cac5038e36e7"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "GlobalStyling.Icons.homePageIcon.getter : SwiftUI.Image"
+                  moduleName = "GlobalStyling"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jayeshkawli/Desktop/Xcode_projects/GlobalStyling/GlobalStyling/Styling/Icons.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "17"
+                  endingLineNumber = "17"
+                  offsetFromSymbolStart = "85">
+               </Location>
+               <Location
+                  uuid = "A375064F-BDA3-4B64-93CB-1643B1A4C039 - 2cd248bf40f8a33a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "GlobalStyling.Icons.hash(into: inout Swift.Hasher) -&gt; ()"
+                  moduleName = "GlobalStyling"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jayeshkawli/Desktop/Xcode_projects/GlobalStyling/GlobalStyling/Styling/Icons.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "17"
+                  endingLineNumber = "17"
+                  offsetFromSymbolStart = "190">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
